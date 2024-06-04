@@ -1,1 +1,22 @@
+h1 {
+  color: darksalmon;
+}
+
+h2 {
+  color: darksalmon;
+}
+h3{
+  color:whitesmoke;
+}
+p {
+  color: gray;
+}
+
+body{
+  background-color: black;
+}
+img {
+  width: 350px;
+  height:250px
+}
 
